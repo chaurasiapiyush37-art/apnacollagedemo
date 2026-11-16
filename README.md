@@ -1,2 +1,3 @@
 # apnacollagedemo
-This is ny first repository 
+This is ny first git repository 
+Author - piyush chaurasia
